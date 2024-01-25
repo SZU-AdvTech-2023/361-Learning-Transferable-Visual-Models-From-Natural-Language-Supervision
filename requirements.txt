@@ -1,0 +1,4 @@
+pytorch 1.7.1
+clip 1.0
+TensorboardX
+yaml, numpy, tqdm, imageio
